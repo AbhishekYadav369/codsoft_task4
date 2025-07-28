@@ -1,4 +1,5 @@
 # codsoft_task4
+# Currency Converter Application
 💱 Currency Converter Web Application
 A real-time currency converter web application built using Spring Boot. This application enables users to select currencies, input an amount, and view the converted result using live exchange rates fetched from an external API.
 
